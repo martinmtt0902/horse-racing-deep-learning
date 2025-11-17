@@ -1,4 +1,4 @@
-# Horse Racing Outcome Prediction — Deep Learning vs Random Forest
+# Horse Racing Outcome Prediction — Deep Neural Network vs Random Forest
 
 This repository contains a deep learning group project analyzing and predicting **Hong Kong horse racing outcomes** using the Kaggle “HK Horse Racing” dataset. This project was completed as part of "STAT4012 — Deep Learning" at The Chinese University of Hong Kong (CUHK).
 We develop and compare two approaches:
